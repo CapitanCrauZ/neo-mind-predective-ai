@@ -1,6 +1,6 @@
 # Neo-Mind Predective Artificial Intelligence Project
 
-<img src="https://github.com/CapitanCrauZ/Neo-Mind-Predective-AI/img/cover.png" width="750" height="610">
+<img src="https://github.com/CapitanCrauZ/Neo-Mind-Predective-AI/blob/master/img/cover.png" width="750" height="610">
 
 ### Index
 
